@@ -4,7 +4,7 @@ layout: AdvancedLayout
 sections:
   - type: HeroSection
     variant: variant-c
-    colors: colors-d
+    colors: colors-c
     width: full
     height: tall
     alignHoriz: left
