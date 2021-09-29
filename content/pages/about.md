@@ -6,10 +6,12 @@ sections:
     variant: variant-c
     colors: colors-f
     width: full
-    height: short
+    height: tall
     alignHoriz: center
     topGap: none
-    title: "We love our sea, we care about it, and we want to enjoy it for years to come."
+    title: >-
+      We love our sea, we care about it, and we want to enjoy it for years to
+      come.
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-a
@@ -29,10 +31,12 @@ sections:
     topGap: large
     bottomGap: none
     alignHoriz: center
-    quote: “I fish to scratch the surface of those mysteries, for nearness to the beautiful, and to reassure myself the world remains.”
+    quote: >-
+      “I fish to scratch the surface of those mysteries, for nearness to the
+      beautiful, and to reassure myself the world remains.”
     name: Carl Safina
     backgroundImage:
       type: ImageBlock
-      url: "/images/quote.jpg"
+      url: /images/quote.jpg
       opacity: 70
 ---
