@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     variant: variant-c
     colors: colors-f
-    width: full
+    width: wide
     height: tall
     alignHoriz: center
     topGap: none
